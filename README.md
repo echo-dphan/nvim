@@ -19,12 +19,12 @@ Create the relevant directories if it doesn't already exist.
 mkdir ~/.config/nvim/
 ```
 
-Copy init.vim to directory and install the plugins using:
+Copy init.vim to the directory then run nvim and install the plugins using:
 ```
 :PlugInstall
 ```
 
-To Uninstall a plugin remove/comment out the plugin from init.vim and run:
+To uninstall a plugin remove/comment out the plugin from init.vim and run:
 ```
 :PlugClean
 ```
