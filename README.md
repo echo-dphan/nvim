@@ -24,3 +24,7 @@ Copy init.vim to directory and install the plugins using:
 :PlugInstall
 ```
 
+To install a plugin remove/comment out the plugin from init.vim and run:
+```
+:PlugClean
+```
